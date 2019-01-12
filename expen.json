@@ -1,0 +1,262 @@
+{
+    "2016": {
+        "1": {
+            "Alipay": 822.24, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 822.24
+        }, 
+        "10": {
+            "Alipay": 999.94, 
+            "JDpay": 0, 
+            "Wechat": 30.8, 
+            "Ztotal": 1030.74
+        }, 
+        "11": {
+            "Alipay": 732.88, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 732.88
+        }, 
+        "12": {
+            "Alipay": 1357.9, 
+            "JDpay": 0, 
+            "Wechat": 31.07, 
+            "Ztotal": 1388.97
+        }, 
+        "2": {
+            "Alipay": 1456.31, 
+            "JDpay": 0, 
+            "Wechat": 10, 
+            "Ztotal": 1466.31
+        }, 
+        "3": {
+            "Alipay": 710.9, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 710.9
+        }, 
+        "4": {
+            "Alipay": 926.76, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 926.76
+        }, 
+        "5": {
+            "Alipay": 909.62, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 909.62
+        }, 
+        "6": {
+            "Alipay": 718.92, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 718.92
+        }, 
+        "7": {
+            "Alipay": 541.52, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 541.52
+        }, 
+        "8": {
+            "Alipay": 323, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 323.0
+        }, 
+        "9": {
+            "Alipay": 1847.96, 
+            "JDpay": 0, 
+            "Wechat": 100, 
+            "Ztotal": 1947.96
+        }, 
+        "All": {
+            "Alipay": 11347.95, 
+            "JDpay": 0.0, 
+            "Wechat": 171.87, 
+            "Ztotal": 11519.82
+        }
+    }, 
+    "2017": {
+        "1": {
+            "Alipay": 393.58, 
+            "JDpay": 0, 
+            "Wechat": 8.77, 
+            "Ztotal": 402.35
+        }, 
+        "10": {
+            "Alipay": 472.24, 
+            "JDpay": 0, 
+            "Wechat": 40, 
+            "Ztotal": 512.24
+        }, 
+        "11": {
+            "Alipay": 534.63, 
+            "JDpay": 0, 
+            "Wechat": 277, 
+            "Ztotal": 811.63
+        }, 
+        "12": {
+            "Alipay": 872.85, 
+            "JDpay": 0, 
+            "Wechat": 306.8, 
+            "Ztotal": 1179.65
+        }, 
+        "2": {
+            "Alipay": 1566.45, 
+            "JDpay": 0, 
+            "Wechat": 212.5, 
+            "Ztotal": 1778.95
+        }, 
+        "3": {
+            "Alipay": 691.44, 
+            "JDpay": 0, 
+            "Wechat": 22, 
+            "Ztotal": 713.44
+        }, 
+        "4": {
+            "Alipay": 683.44, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 683.44
+        }, 
+        "5": {
+            "Alipay": 567.83, 
+            "JDpay": 0, 
+            "Wechat": 0, 
+            "Ztotal": 567.83
+        }, 
+        "6": {
+            "Alipay": 768.88, 
+            "JDpay": 0, 
+            "Wechat": 32.5, 
+            "Ztotal": 801.38
+        }, 
+        "7": {
+            "Alipay": 215.34, 
+            "JDpay": 336.5, 
+            "Wechat": 22, 
+            "Ztotal": 573.84
+        }, 
+        "8": {
+            "Alipay": 237.94, 
+            "JDpay": 0, 
+            "Wechat": 50, 
+            "Ztotal": 287.94
+        }, 
+        "9": {
+            "Alipay": 983.6, 
+            "JDpay": 0, 
+            "Wechat": 19, 
+            "Ztotal": 1002.6
+        }, 
+        "All": {
+            "Alipay": 7988.22, 
+            "JDpay": 336.5, 
+            "Wechat": 990.57, 
+            "Ztotal": 9315.29
+        }
+    }, 
+    "2018": {
+        "1": {
+            "Alipay": 571.1, 
+            "JDpay": 0, 
+            "Wechat": 1336.98, 
+            "Ztotal": 1908.08
+        }, 
+        "10": {
+            "Alipay": 631.29, 
+            "JDpay": 0, 
+            "Wechat": 132.5, 
+            "Ztotal": 763.79
+        }, 
+        "11": {
+            "Alipay": 351.15, 
+            "JDpay": 92.5, 
+            "Wechat": 399.8, 
+            "Ztotal": 843.45
+        }, 
+        "12": {
+            "Alipay": 976.7, 
+            "JDpay": 226.15, 
+            "Wechat": 51.95, 
+            "Ztotal": 1254.8
+        }, 
+        "2": {
+            "Alipay": 476, 
+            "JDpay": 0, 
+            "Wechat": 156.21, 
+            "Ztotal": 632.21
+        }, 
+        "3": {
+            "Alipay": 1223.24, 
+            "JDpay": 0, 
+            "Wechat": 629.55, 
+            "Ztotal": 1852.79
+        }, 
+        "4": {
+            "Alipay": 646.1, 
+            "JDpay": 919, 
+            "Wechat": 321.15, 
+            "Ztotal": 1886.25
+        }, 
+        "5": {
+            "Alipay": 539.32, 
+            "JDpay": 0, 
+            "Wechat": 466.97, 
+            "Ztotal": 1006.29
+        }, 
+        "6": {
+            "Alipay": 763.68, 
+            "JDpay": 202, 
+            "Wechat": 2331, 
+            "Ztotal": 3296.68
+        }, 
+        "7": {
+            "Alipay": 561, 
+            "JDpay": 0, 
+            "Wechat": 1028.5, 
+            "Ztotal": 1589.5
+        }, 
+        "8": {
+            "Alipay": 484.29, 
+            "JDpay": 0, 
+            "Wechat": 396, 
+            "Ztotal": 880.29
+        }, 
+        "9": {
+            "Alipay": 854.48, 
+            "JDpay": 508.1, 
+            "Wechat": 349.5, 
+            "Ztotal": 1712.08
+        }, 
+        "All": {
+            "Alipay": 8078.35, 
+            "JDpay": 1947.75, 
+            "Wechat": 7600.11, 
+            "Ztotal": 17626.21
+        }
+    }, 
+    "2019": {
+        "1": {
+            "Alipay": 100.0, 
+            "JDpay": 0.0, 
+            "Wechat": 0.0, 
+            "Ztotal": 100.0
+        }, 
+        "All": {
+            "Alipay": 100.0, 
+            "JDpay": 0.0, 
+            "Wechat": 0.0, 
+            "Ztotal": 100.0
+        }
+    }, 
+    "All": {
+        "Alipay": 27514.52, 
+        "JDpay": 2284.25, 
+        "Wechat": 8762.55, 
+        "Ztotal": 38561.32
+    }
+}
