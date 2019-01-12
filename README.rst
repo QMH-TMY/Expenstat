@@ -1,11 +1,11 @@
 Expenstat and Expen2pic 
 =============================
-Command line interface for recording your expenditurn in a json file.
-and command line interface to visulize your expenditrue respectively.
+Command line interface for recording your expenditurn in a json file 
+and to visulize your expenditrue respectively.
 
 Versions
 --------
-Ebooksfinder works with Python 2.7
+Expenstat and Expen2pic works with Python 2.7
 
 Usage for Expenstat
 --------------------
